@@ -1,2 +1,2 @@
-# Dissertations
-Welcome to our dissertations repository. The repo serves as a central hub for dissertation projects undertaken by our students at the Humboldt-Universität zu Berlin. 
+# Older dissertations prepared over the years 2020 to 2022
+This repository provides access to several MSc dissertations which have been conducted over the years 2020 to 2023. The folders organize student projects according to topics. Happy browsing
